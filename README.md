@@ -6,6 +6,8 @@ Estou fazendo o curso: Web Moderno Completo com JavaScript 2020 + Projetos na Ud
 
 As questões estão divididas em três categorias: Simples, intermediária e avançada (Que demandam a construção de um algoritimo um pouco mais complexo). Espero que esse repositório possa ajudar algum dev que está iniciando na carreira assim como eu. 
 
+#### Feito por Alisson Gustavo
+
 Segue: 
 
 #### Categoria: simples
