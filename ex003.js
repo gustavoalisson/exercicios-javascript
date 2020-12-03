@@ -1,6 +1,6 @@
 // Função simples
 function eleveExpoente(base, expoente){
-    return potenciacao = base ** expoente
+    return base ** expoente
 }
 
 console.log(`valor: ${eleveExpoente(2,3)}`)

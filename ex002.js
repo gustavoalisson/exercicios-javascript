@@ -3,8 +3,9 @@ Equilátero: Os três lados são iguais.
 Isósceles: Dois lados iguais. 
 Escaleno: Todos os lados são diferentes.
  */
+
 function triangulo(a,b,c){
-    if(a === b && a === c && b === c){
+    if(a === b && a === c){
         console.log('Triângulo Equilátero')
     }else if((a === b || a === c || b === c) ) {
         console.log('Triângulo isósceles')

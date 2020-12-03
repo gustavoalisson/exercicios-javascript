@@ -1,3 +1,5 @@
+// usar variaveis
+
 const calcula = (valor1, valor2) =>{
     let soma = console.log(`Soma: ${valor1 + valor2}`)
     let multiplc = console.log(`Multiplicação: ${valor1 * valor2}`)

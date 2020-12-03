@@ -1,8 +1,8 @@
 function resultadoDivisao(dividendo, divisor){
-    let valor = dividendo / divisor
+    const valor = dividendo / divisor
     console.log(`Resultado da divisão: ${Math.floor(valor) }`)
-    let restoDivisao = dividendo % divisor
-    console.log(`Resto ${parseInt(restoDivisao)}`)
+    const restoDivisao = dividendo % divisor
+    console.log(`Resto ${restoDivisao}`)
 }
-resultadoDivisao(50,10)
+resultadoDivisao(50,15)
 

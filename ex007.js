@@ -4,10 +4,9 @@ function formulaBhaskara(ax, bx, c){
         return 'Delta é negativo'
     }else{
         let x1, x2
-        let vetor = [x1,x2]
-        vetor[0] = (-bx + Math.sqrt(delta)) / (2 * ax)
-        vetor[1] = (-bx - Math.sqrt(delta)) / (2 * ax)
-        return 'x1= ' + vetor[0] + ' ' + 'x2= ' +  vetor[1] 
+        x1 = (-bx + Math.sqrt(delta)) / (2 * ax)
+        x2 = (-bx - Math.sqrt(delta)) / (2 * ax)
+        return [x1, x2] 
     }
 }
 
